@@ -6,18 +6,16 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=你好, 我是任振鹏, 欢迎来到我的Github!" alt="嘿, 我是任振鹏, 欢迎来到我的Github! animated typed out" width="80%" align="middle" />
     <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   </div>
-  <img src="./assets/borderseparator.gif" width="100%"/>
 </div>
 
-
-
-<div align="center">
+<!-- <div align="center">
+  <img src="./assets/borderseparator.gif" width="100%"/>
   <img src="https://github-profile-trophy.vercel.app/?username=renzp94&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
   <br><br>
   <img src="https://streak-stats.demolab.com?user=renzp94&theme=radical&locale=zh_Hans&card_height=212&card_width=600&hide_border=true" width="49.5%" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=renzp94&theme=radical&hide_title=true&show_icons=true&hide_border=true" alt="统计信息" width="49.5%">
   <br>
-</div>
+</div> -->
 
 <div>
   <img src="./assets/borderseparator.gif" width="100%"/>
